@@ -12,8 +12,9 @@ echo "Hi my name is xokirBios and i am doing some programming"
 
 echo "I do programming and IT infrastructure analysis"
 
+nano ~/.bashrc
 
-
+> figlet -c -f slant xokirBios
 ```
 
 ─────────────────────────────────────
