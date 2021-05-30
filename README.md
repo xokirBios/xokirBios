@@ -10,7 +10,6 @@
 
 echo "Hi my name is xokirBios and i am doing some programming"
 
-echo "I do programming and IT infrastructure analysis"
 
 xokirbios@root:~$ figlet -c -f slant xokirBios
                                 __   _      ____  _           
