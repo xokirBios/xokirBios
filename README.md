@@ -3,7 +3,7 @@
 </p>
 
 
-<img align='right' src="https://avatars.githubusercontent.com/u/60980527?v=4" width="230">
+<img align='right' src="https://cdn.discordapp.com/emojis/850761499965915166.gif?v=1" width="230">
 
 ```shell
 #!/bin/bash
