@@ -1,4 +1,4 @@
-<!-- PROJECT LOGO -->
+
 <br />
 <p align="center">
   <a href="https://xokirbios.xyz">
@@ -10,7 +10,7 @@
   <p align="center">
    Hi my name is xokirBios I am French and still a student I am a Discord server moderator and I do some programming from time to time.
     <br />
-<center> 
-  <img src="https://media1.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="banner">
-  </center>
+
+  <img src="https://thumbs.gfycat.com/RawShadowyIsabellineshrike-size_restricted.gif" alt="banner">
+
 
