@@ -10,6 +10,6 @@
   <p align="center">
    Hi my name is xokirBios I am French and still a student I am a Discord server moderator and I do some programming from time to time.
     <br />
-
-![](https://media1.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
+<center>
+![](https://media1.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)</center>
 
