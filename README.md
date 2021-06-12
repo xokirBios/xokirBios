@@ -11,6 +11,9 @@
    Hi my name is xokirBios I am French and still a student I am a Discord server moderator and I do some programming from time to time.
     <br />
 
-  <img src="https://thumbs.gfycat.com/RawShadowyIsabellineshrike-size_restricted.gif" alt="banner">
+  
 
+[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=xokirBios
+[instagram]: https://www.instagram.com/xokirBios
+[website]: https://xokirbios.xyz
 
