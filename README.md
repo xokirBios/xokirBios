@@ -5,9 +5,9 @@
     <img src="https://i.kym-cdn.com/photos/images/newsfeed/001/139/230/436.gif" alt="Logo" width="500" height="270">
   </a>
 
-  <h3 align="center">xokirBios</h3>
+  <h3 align="center">Hi, I'm xokirBios</h3>
 
   <p align="center">
-   Hi my name is xokirBios I am French and still a student I am a Discord server moderator and I do some programming from time to time.
+   I am a developer in my spare time and also I am interested in cybersecurity and I offer my services to small groups who need this kind of service. Also I am a person who likes to do lots of ambitious projects. !
     <br />
 
